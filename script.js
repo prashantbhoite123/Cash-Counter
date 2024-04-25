@@ -38,7 +38,7 @@ arr.forEach((element, index) => {
     }
 
     if (arr[4].value) {
-      alloutput[4].innerHTML = arr[4].value * 200;
+      alloutput[4].innerHTML = arr[4].value * 20;
     }
 
     if (arr[5].value) {
